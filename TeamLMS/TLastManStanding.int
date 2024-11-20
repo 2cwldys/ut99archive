@@ -1,0 +1,5 @@
+[Public]
+Object=(Name=TLastManStanding.TLastManStanding,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Preferences=(Caption="Team LMS",Parent="Game Types",Class=TLastManStanding.TLastManStanding,Immediate=True)
+
+GameClass="TLastManStanding.TLastM"

@@ -1,0 +1,5 @@
+[Public]
+;===Mutator
+Object=(Name=DynamicArena.DynamicArenaMut,Class=Class,MetaClass=Engine.Mutator,Description="Dynamic Arena,The only arena mode that is fair but isn't boring!")
+;===Menu
+Object=(Name=DynamicArena.DynamicArenaModMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="D&ynamic Arena,Configure the Dynamic Arena mutator.")
